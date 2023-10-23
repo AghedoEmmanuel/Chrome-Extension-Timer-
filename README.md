@@ -1,2 +1,7 @@
 # Chrome-Extension-Timer-
-A timer Chrome extension that alerts users when the designated time for a specific task has passed.
+
+Go to your Chrome Extension
+
+Click on "Load unpacked"
+
+Navigate to this file and Select it
